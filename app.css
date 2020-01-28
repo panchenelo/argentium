@@ -14648,31 +14648,31 @@ label[data-required]:after {
 }
 
 .article-content[data-size="1"] .text-lead {
-  font-size: 1.51063rem;
-  line-height: 2.10625rem;
+  font-size: 1.38563rem;
+  line-height: 2rem;
   letter-spacing: 0.05187rem;
 }
 
 .article-content[data-size="2"] .text-lead {
-  font-size: 1.63563rem;
-  line-height: 2.2125rem;
+  font-size: 1.38563rem;
+  line-height: 2rem;
   letter-spacing: 0.05187rem;
 }
 
 @media (min-width: 1024px) {
   .text-lead {
-    font-size: 1.51063rem;
-    line-height: 2.1875rem;
+    font-size: 1.38563rem;
+    line-height: 2rem;
     letter-spacing: 0.05625rem;
   }
   .article-content[data-size="1"] .text-lead {
-    font-size: 1.63563rem;
-    line-height: 2.29375rem;
+    font-size: 1.38563rem;
+    line-height: 2rem;
     letter-spacing: 0.05625rem;
   }
   .article-content[data-size="2"] .text-lead {
-    font-size: 1.76063rem;
-    line-height: 2.4rem;
+    font-size: 1.38563rem;
+    line-height: 2rem;
     letter-spacing: 0.05625rem;
   }
 }
@@ -22274,7 +22274,7 @@ blockquote:before,
 
 .article-content[data-size="2"] p:not(.text-lead) {
   font-size: 1.375rem;
-  line-height: 2.0875rem;
+  line-height: 2rem;
 }
 
 @media (min-width: 1024px) {
@@ -22287,8 +22287,8 @@ blockquote:before,
     line-height: 2.16875rem;
   }
   .article-content[data-size="2"] p:not(.text-lead) {
-    font-size: 1.57313rem;
-    line-height: 2.275rem;
+    font-size: 1.38563rem;
+    line-height: 2rem;
   }
 
 
